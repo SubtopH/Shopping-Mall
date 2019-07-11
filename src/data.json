@@ -1,0 +1,425 @@
+{
+    "banner": [
+      {
+        "id": 0,
+       "url": "src/imgs/banner1.jpg"
+      },
+      {
+        "id": 1,
+          "url": "src/imgs/banner3.jpg"
+      },
+      {
+        "id": 3,
+          "url": "src/imgs/banner4.jpg"
+      },
+      {
+        "id": 4,
+          "url": "src/imgs/banner5.jpg"
+      },
+      {
+        "id": 5,
+          "url": "src/imgs/banner2.jpg"
+      }
+    ],
+    "shangou": [
+        {
+          "id": 0,
+         "url": "src/imgs/cu1.png",
+         "color":"green"
+        },
+        {
+          "id": 1,
+           "url": "src/imgs/cu1.png",
+           "color":"red"
+        },
+        {
+         "id": 2,
+           "url": "src/imgs/cu1.png",
+           "color":"red"
+        },
+        {
+         "id": 3,
+           "url": "src/imgs/cu1.png",
+           "color":"#00BFFF"
+        }, 
+        {
+            "id": 0,
+             "url": "src/imgs/cu2.png",
+             "color":"#00BF22"
+          },
+          {
+            "id": 1,
+             "url": "src/imgs/cu2.png",
+             "color":"orange"
+          },
+          {
+           "id": 2,
+             "url": "src/imgs/cu2.png",
+             "color":"orangered"
+          },
+          {
+           "id": 3,
+             "url": "src/imgs/cu2.png",
+             "color":"darkgreen"
+          },  
+          {
+            "id": 3,
+              "url": "src/imgs/cu3.png",
+              "color":"black"
+           }
+       
+      ],
+    "jiadian1":[
+        {
+           "id": 0,
+           "youhui":"满200元",
+            "url": "src/imgs/jiadian1.png",
+            "jiabt":"豪豪电视4A 55英寸",
+            "xushu":"AI 超感光双摄，三星 AMOLED 屏幕",
+            "jiage1":"2222元",
+            "jiage2":"3333元",
+            "xushu2":"好好的品质和性价比我不愿意在这里多说，如果不是最好的后面省略",
+            "pingjia":"孙文豪"
+        },
+        {
+            "id": 1,
+            "youhui":"满200元",
+             "url": "src/imgs/jiadian1.png",
+             "jiabt":"豪豪电视4A 55英寸",
+             "xushu":"AI 超感光双摄，三星 AMOLED 屏幕",
+             "jiage1":"2222元",
+             "jiage2":"3333元",
+             "xushu2":"好好的品质和性价比我不愿意在这里多说，如果不是最好的后面省略",
+             "pingjia":"孙文豪"
+         },
+         {
+            "id": 2,
+            "youhui":"满200元",
+             "url": "src/imgs/jiadian1.png",
+             "jiabt":"豪豪电视4A 55英寸",
+             "xushu":"AI 超感光双摄，三星 AMOLED 屏幕",
+             "jiage1":"2222元",
+             "jiage2":"3333元",
+             "xushu2":"好好的品质和性价比我不愿意在这里多说，如果不是最好的后面省略",
+             "pingjia":"孙文豪"
+         },
+         {
+            "id": 3,
+            "youhui":"满200元",
+             "url": "src/imgs/jiadian1.png",
+             "jiabt":"豪豪电视4A 55英寸",
+             "xushu":"AI 超感光双摄，三星 AMOLED 屏幕",
+             "jiage1":"2222元",
+             "jiage2":"3333元",
+             "xushu2":"好好的品质和性价比我不愿意在这里多说，如果不是最好的后面省略",
+             "pingjia":"孙文豪"
+         },
+         {
+            "id": 4,
+            "youhui":"满200元",
+             "url": "src/imgs/jiadian1.png",
+             "jiabt":"豪豪电视4A 55英寸",
+             "xushu":"AI 超感光双摄，三星 AMOLED 屏幕",
+             "jiage1":"2222元",
+             "jiage2":"3333元",
+             "xushu2":"好好的品质和性价比我不愿意在这里多说，如果不是最好的后面省略",
+             "pingjia":"孙文豪"
+         },
+         {
+            "id": 5,
+            "youhui":"满200元",
+             "url": "src/imgs/jiadian1.png",
+             "jiabt":"豪豪电视4A 55英寸",
+             "xushu":"AI 超感光双摄，三星 AMOLED 屏幕",
+             "jiage1":"2222元",
+             "jiage2":"3333元",
+             "xushu2":"好好的品质和性价比我不愿意在这里多说，如果不是最好的后面省略",
+             "pingjia":"孙文豪"
+         },
+         {
+            "id": 6,
+            "youhui":"满200元",
+             "url": "src/imgs/jiadian1.png",
+             "jiabt":"豪豪电视4A 55英寸",
+             "xushu":"AI 超感光双摄，三星 AMOLED 屏幕",
+             "jiage1":"2222元",
+             "jiage2":"3333元",
+             "xushu2":"好好的品质和性价比我不愿意在这里多说，如果不是最好的后面省略",
+             "pingjia":"孙文豪"
+         }
+    ],
+    "jiadian2":[
+      {
+        "id": 0,
+        "youhui":"满300元",
+         "url": "src/imgs/jiadian2.jpg",
+         "jiabt":"豪豪笔记本4A 55英寸",
+         "xushu":"AI 超感光双摄，好好 AMOLED 屏幕",
+         "jiage1":"2222元",
+         "jiage2":"3388元",
+         "xushu2":"好好的品质和性价比我不愿意在这里多说，如果不是最好的后面省略",
+         "pingjia":"孙文豪"
+     },
+     {
+        "id": 1,
+        "youhui":"满300元",
+         "url": "src/imgs/jiadian2.jpg",
+         "jiabt":"豪豪笔记本4A 55英寸",
+         "xushu":"AI 超感光双摄，好好 AMOLED 屏幕",
+         "jiage1":"2545元",
+         "jiage2":"3383元",
+         "xushu2":"好好的品质和性价比我不愿意在这里多说，如果不是最好的后面省略",
+         "pingjia":"孙文豪"
+     },
+     {
+        "id": 2,
+        "youhui":"满300元",
+         "url": "src/imgs/jiadian2.jpg",
+         "jiabt":"豪豪笔记本4A 55英寸",
+         "xushu":"AI 超感光双摄，好好 AMOLED 屏幕",
+         "jiage1":"2342元",
+         "jiage2":"3333元",
+         "xushu2":"好好的品质和性价比我不愿意在这里多说，如果不是最好的后面省略",
+         "pingjia":"孙文豪"
+     },
+     {
+        "id": 3,
+        "youhui":"满300元",
+         "url": "src/imgs/jiadian2.jpg",
+         "jiabt":"豪豪笔记本4A 55英寸",
+         "xushu":"AI 超感光双摄，好好 AMOLED 屏幕",
+         "jiage1":"2324元",
+         "jiage2":"3333元",
+         "xushu2":"好好的品质和性价比我不愿意在这里多说，如果不是最好的后面省略",
+         "pingjia":"孙文豪"
+     },
+     {
+        "id": 4,
+        "youhui":"满300元",
+         "url": "src/imgs/jiadian2.jpg",
+         "jiabt":"豪豪笔记本4A 55英寸",
+         "xushu":"AI 超感光双摄，好好 AMOLED 屏幕",
+         "jiage1":"2323元",
+         "jiage2":"3333元",
+         "xushu2":"好好的品质和性价比我不愿意在这里多说，如果不是最好的后面省略",
+         "pingjia":"孙文豪"
+     },
+     {
+        "id": 5,
+        "youhui":"满300元",
+         "url": "src/imgs/jiadian2.jpg",
+         "jiabt":"豪豪笔记本4A 55英寸",
+         "xushu":"AI 超感光双摄，好好 AMOLED 屏幕",
+         "jiage1":"1200元",
+         "jiage2":"3333元",
+         "xushu2":"好好的品质和性价比我不愿意在这里多说，如果不是最好的后面省略",
+         "pingjia":"孙文豪"
+     },
+     {
+        "id": 6,
+        "youhui":"满230元",
+         "url": "src/imgs/jiadian3.jpg",
+         "jiabt":"豪豪笔记本4A 55英寸",
+         "xushu":"AI 超感光双摄，好好 AMOLED 屏幕",
+         "jiage1":"2990元",
+         "jiage2":"5990元",
+         "xushu2":"好好的品质和性价比我不愿意在这里多说，如果不是最好的后面省略",
+         "pingjia":"孙文豪"
+     }
+    ],
+    "jiadian3":[
+      {
+        "id": 0,
+        "youhui":"满230元",
+         "url": "src/imgs/jiadian3.jpg",
+         "jiabt":"豪豪笔记本4A 55英寸",
+         "xushu":"AI 超感光双摄，好好 AMOLED 屏幕",
+         "jiage1":"2990元",
+         "jiage2":"5990元",
+         "xushu2":"好好的品质和性价比我不愿意在这里多说，如果不是最好的后面省略",
+         "pingjia":"孙文豪"
+     },
+     {
+        "id": 1,
+        "youhui":"满230元",
+         "url": "src/imgs/jiadian3.jpg",
+         "jiabt":"豪豪笔记本4A 55英寸",
+         "xushu":"AI 超感光双摄，好好 AMOLED 屏幕",
+         "jiage1":"2990元",
+         "jiage2":"5990元",
+         "xushu2":"好好的品质和性价比我不愿意在这里多说，如果不是最好的后面省略",
+         "pingjia":"孙文豪"
+     },
+     {
+        "id": 2,
+        "youhui":"满230元",
+         "url": "src/imgs/jiadian3.jpg",
+         "jiabt":"豪豪笔记本4A 55英寸",
+         "xushu":"AI 超感光双摄，好好 AMOLED 屏幕",
+         "jiage1":"2990元",
+         "jiage2":"5990元",
+         "xushu2":"好好的品质和性价比我不愿意在这里多说，如果不是最好的后面省略",
+         "pingjia":"孙文豪"
+     },
+     {
+        "id": 3,
+        "youhui":"满230元",
+         "url": "src/imgs/jiadian3.jpg",
+         "jiabt":"豪豪笔记本4A 55英寸",
+         "xushu":"AI 超感光双摄，好好 AMOLED 屏幕",
+         "jiage1":"2990元",
+         "jiage2":"5990元",
+         "xushu2":"好好的品质和性价比我不愿意在这里多说，如果不是最好的后面省略",
+         "pingjia":"孙文豪"
+     },
+     {
+        "id": 4,
+        "youhui":"满230元",
+         "url": "src/imgs/jiadian3.jpg",
+         "jiabt":"豪豪笔记本4A 55英寸",
+         "xushu":"AI 超感光双摄，好好 AMOLED 屏幕",
+         "jiage1":"2990元",
+         "jiage2":"5990元",
+         "xushu2":"好好的品质和性价比我不愿意在这里多说，如果不是最好的后面省略",
+         "pingjia":"孙文豪"
+     },
+     {
+        "id": 5,
+        "youhui":"满230元",
+         "url": "src/imgs/jiadian3.jpg",
+         "jiabt":"豪豪笔记本4A 55英寸",
+         "xushu":"AI 超感光双摄，好好 AMOLED 屏幕",
+         "jiage1":"2990元",
+         "jiage2":"5990元",
+         "xushu2":"好好的品质和性价比我不愿意在这里多说，如果不是最好的后面省略",
+         "pingjia":"孙文豪"
+     },
+     {
+        "id": 6,
+        "youhui":"满230元",
+         "url": "src/imgs/s11.jpg",
+         "jiabt":"豪豪笔记本4A 55英寸",
+         "xushu":"AI 超感光双摄，好好 AMOLED 屏幕",
+         "jiage1":"2990元",
+         "jiage2":"5990元",
+         "xushu2":"好好的品质和性价比我不愿意在这里多说，如果不是最好的后面省略",
+         "pingjia":"孙文豪"
+     }
+    
+    ],
+    "jiadian4":[
+      {
+        "id": 0,
+        "youhui":"满230元",
+         "url": "src/imgs/s11.jpg",
+         "jiabt":"豪豪笔记本4A 55英寸",
+         "xushu":"AI 超感光双摄，好好 AMOLED 屏幕",
+         "jiage1":"2990元",
+         "jiage2":"5990元",
+         "xushu2":"好好的品质和性价比我不愿意在这里多说，如果不是最好的后面省略",
+         "pingjia":"孙文豪"
+     },
+     {
+        "id": 1,
+        "youhui":"满230元",
+         "url": "src/imgs/s11.jpg",
+         "jiabt":"豪豪笔记本4A 55英寸",
+         "xushu":"AI 超感光双摄，好好 AMOLED 屏幕",
+         "jiage1":"2990元",
+         "jiage2":"5990元",
+         "xushu2":"好好的品质和性价比我不愿意在这里多说，如果不是最好的后面省略",
+         "pingjia":"孙文豪"
+     },
+     {
+        "id": 2,
+        "youhui":"满230元",
+         "url": "src/imgs/s11.jpg",
+         "jiabt":"豪豪笔记本4A 55英寸",
+         "xushu":"AI 超感光双摄，好好 AMOLED 屏幕",
+         "jiage1":"2990元",
+         "jiage2":"5990元",
+         "xushu2":"好好的品质和性价比我不愿意在这里多说，如果不是最好的后面省略",
+         "pingjia":"孙文豪"
+     },
+     {
+        "id": 3,
+        "youhui":"满230元",
+         "url": "src/imgs/s11.jpg",
+         "jiabt":"豪豪笔记本4A 55英寸",
+         "xushu":"AI 超感光双摄，好好 AMOLED 屏幕",
+         "jiage1":"2990元",
+         "jiage2":"5990元",
+         "xushu2":"好好的品质和性价比我不愿意在这里多说，如果不是最好的后面省略",
+         "pingjia":"孙文豪"
+     },
+     {
+        "id": 4,
+        "youhui":"满230元",
+         "url": "src/imgs/s11.jpg",
+         "jiabt":"豪豪笔记本4A 55英寸",
+         "xushu":"AI 超感光双摄，好好 AMOLED 屏幕",
+         "jiage1":"2990元",
+         "jiage2":"5990元",
+         "xushu2":"好好的品质和性价比我不愿意在这里多说，如果不是最好的后面省略",
+         "pingjia":"孙文豪"
+     },
+     {
+        "id": 5,
+        "youhui":"满230元",
+         "url": "src/imgs/s11.jpg",
+         "jiabt":"豪豪笔记本4A 55英寸",
+         "xushu":"AI 超感光双摄，好好 AMOLED 屏幕",
+         "jiage1":"2990元",
+         "jiage2":"5990元",
+         "xushu2":"好好的品质和性价比我不愿意在这里多说，如果不是最好的后面省略",
+         "pingjia":"孙文豪"
+     },
+     {
+      "id": 6,
+      "youhui":"满230元",
+       "url": "src/imgs/s11.jpg",
+       "jiabt":"豪豪笔记本4A 55英寸",
+       "xushu":"AI 超感光双摄，好好 AMOLED 屏幕",
+       "jiage1":"2990元",
+       "jiage2":"5990元",
+       "xushu2":"好好的品质和性价比我不愿意在这里多说，如果不是最好的后面省略",
+       "pingjia":"孙文豪"
+   }
+    
+  ],
+"jia":[
+    {
+       "xname":"多功能转接器",
+       "xurl":"src/imgs/zl1.jpg",
+       "xjiage":"299元",
+       "zla":"浏览更多",
+       "zla1":"热门"
+   },
+   {
+       "xname":"多功能转接器",
+       "xurl":"src/imgs/zl2.jpg",
+       "xjiage":"299元",
+       "zla":"浏览更多",
+       "zla1":"电视影音"
+   },
+   {
+       "xname":"多功能转接器",
+       "xurl":"src/imgs/zl3.jpg",
+       "xjiage":"299元",
+       "zla":"浏览更多",
+       "zla1":"电脑"
+   },
+   {
+       "xname":"多功能转接器",
+       "xurl":"src/imgs/zl4.jpg",
+       "xjiage":"299元",
+       "zla":"浏览更多",
+       "zla1":"家居"
+   }
+    ]
+
+
+
+
+
+  }

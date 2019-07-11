@@ -1,0 +1,5 @@
+
+
+{{each shangou}}
+<div class="cu" style="border-top: 1px solid {{$value.color}};"><img src="{{$value.url}}"/></div>
+{{/each}}

@@ -1,0 +1,6 @@
+
+
+{{each banner}}
+    <a href="" ><img class="banner" src="{{$value.url}}" alt="" /></a>
+ {{/each}}   
+	

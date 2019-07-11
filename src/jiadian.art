@@ -1,0 +1,19 @@
+
+
+            {{each jiadian1}}
+                         <div class="fenyexhz">
+							 <p class="jian">{{$value.youhui}}</p>
+						<a href="">
+							<img src="{{$value.url}}" alt="" />
+						</a>
+						<a href="" class="jiabt">{{$value.jiabt}}</a>
+						<p class="xushu">{{$value.xushu}}</p>
+						<p class="jiage">{{$value.jiage1}}<span>{{$value.jiage2}}</span></p>
+							
+						<div class="se">
+						<a href=""><p class="sexushu">{{$value.xushu2}}</p></a>
+						<a href="" class="pingjia">来自于<span>{{$value.pingjia}}</span>评价</a>
+						</div>
+						</div>
+                       
+            {{/each}}

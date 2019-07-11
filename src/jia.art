@@ -1,0 +1,27 @@
+
+
+{{each jia}}
+	<div class="fenye">
+					
+				<div class="fenyexhzl">
+                            <div class="zl">
+								<a class="zla" href="">{{$value.xname}}</a>
+								<a class="zlimg" href="">
+									<img src="{{$value.xurl}}" alt="" />
+								</a>
+								<p>{{$value.xjiage}}</p>
+							</div>
+							<div class="zl">
+								<a class="zla" href="">{{$value.zla}}</a>
+								<a class="zlimg" href="">
+									<i class="iconfont icon-method-draw-image"></i>
+								</a>
+								<p>{{$value.zla1}}</p>
+								
+								
+							</div>  
+							</div>  
+
+	</div>
+   
+ {{/each}}  
