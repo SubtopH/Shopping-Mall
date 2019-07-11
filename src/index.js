@@ -23,8 +23,6 @@ $(function(){
 		// 渲染好的页面加入index.html的 .gouyouhz里面
 		$('.gouyouhz').append(shan)
 
-		
-
 		//先渲染每个家电部分的右下角，出来4个盒子
 		var ji = jia(data)
 		$('.jiayou').append(ji)
